@@ -2,8 +2,10 @@
 
 Angular wrapper for [Bugsnag](https://github.com/bugsnag/bugsnag-js).
 
-[![Build Status](https://travis-ci.org/wmluke/angular-bugsnag.svg)](https://travis-ci.org/wmluke/angular-bugsnag)
-[![Coverage Status](https://coveralls.io/repos/wmluke/angular-bugsnag/badge.png)](https://coveralls.io/r/wmluke/angular-bugsnag)
+[![Build Status](https://img.shields.io/travis/stramel/angular-bugsnag.svg?style=flat-square)](https://travis-ci.org/stramel/angular-bugsnag)
+[![Coverage Status](https://img.shields.io/coveralls/stramel/angular-bugsnag.svg?style=flat-square)](https://coveralls.io/r/stramel/angular-bugsnag)
+[![npm](https://img.shields.io/npm/v/angular-bugsnag.svg?style=flat-square)]()
+[![Bower](https://img.shields.io/bower/v/angular-bugsnag.svg?style=flat-square)]()
 
 Specifically, `angular-bugsnag` does the following...
 
